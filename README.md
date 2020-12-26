@@ -17,5 +17,5 @@ This project requires python 3.x and the following python libraries:
 You will also need to have software that runs and executes an iPython Notebook.
 
 
-C# ode 
+# Code 
 This project template has been provided by Udacity. Some code has already been implemented, and I implemented additional functionality to successfully complete the project.
