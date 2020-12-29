@@ -18,5 +18,5 @@ You will also need to have software that runs and executes an iPython Notebook.
 
 
 # Code 
-This project template has been provided by Udacity. Some code has already been implemented, and I implemented additional functionality to successfully complete the project. The images used in the project are located in folder test_images.
+This project template has been provided by Udacity. Some code has already been implemented, and I implemented additional functionality to successfully complete the project. The images used in the project are located in folder test_images. The label_map file maps each flower number to the corresponding flower name.
 
