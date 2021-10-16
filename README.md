@@ -1,11 +1,10 @@
-# Disclaimer
-The solutions released in this project are only for reference purposes.
+# Image Classifier
 
-# Project Overview
+## Project Overview
 This is the second project for Introduction to Machine learning with TensorFlow Nanodegree provided by Udacity. In this project, a neural network was trained to recognize different types of flowers using transfer learning.
 
 
-# Installation
+## Installation
 This project requires python 3.x and the following python libraries:
 * Numpy
 * Panda
@@ -17,6 +16,8 @@ This project requires python 3.x and the following python libraries:
 You will also need to have software that runs and executes an iPython Notebook.
 
 
-# Code 
+## Code 
 This project template has been provided by Udacity. Some code has already been implemented, and I implemented additional functionality to successfully complete the project. The images used in the project are located in folder test_images. The label_map file maps each flower number to the corresponding flower name.
 
+## Disclaimer
+The solutions released in this project are only for reference purposes.
